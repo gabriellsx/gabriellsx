@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @gabriellsx
 - 👀 I’m interested in making money.
 - 🌱 I’m currently learning git.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: send me a hi.
+- 💞️ I’m looking to collaborate on an creative project. 
+- 📫 How to reach me: just send me a hi.
 - 😄 Pronouns: she/her.
-- ⚡ Fun fact: ...
+- ⚡ Curious fact: I am a nutritionist.
 
 <!---
 gabriellsx/gabriellsx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
