@@ -1,6 +1,6 @@
 <h1 align="center">✨ Oi, eu sou a Gabrielle! ✨</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBhdzFpY3MxZ2twM2NhMDA5ZWIweW4xYmJkaTIzN3N3ZWd3amNwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jUwpNzg9IcyrK/giphy.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3UyeWVkeGlkbjBxYjExY24xNGdpOXBkZGVwN2JuNGt3dzFxZDZ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sKhhNgnV6xXWg/giphy.gif" width="200"/>
 </p>
 <p align="center">💡 Nutricionista em formação | 💻 Estudante de programação </p>
 
