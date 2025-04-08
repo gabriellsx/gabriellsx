@@ -2,16 +2,16 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBhdzFpY3MxZ2twM2NhMDA5ZWIweW4xYmJkaTIzN3N3ZWd3amNwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jUwpNzg9IcyrK/giphy.gif" width="200"/>
 </p>
-<p align="center">💡 Nutricionista em formação | 💻 Estudante de programação | 🎙️ Criadora do podcast <i>Eu Me Pergunto</i></p>
+<p align="center">💡 Nutricionista em formação | 💻 Estudante de programação </p>
 
 ---
 
 ## 🌱 Sobre mim
 
 Sou a Gabrielle, uma apaixonada por aprender e criar.  
-Estou construindo minha jornada como desenvolvedora web enquanto finalizo a graduação em Nutrição. Meu objetivo? Unir saúde, dados, tecnologia e propósito. 💚
+Estou construindo minha jornada como programadora enquanto finalizo a graduação em Nutrição. 💚
 
-Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de programação com **Python**, **HTML**, **CSS** e **Git/GitHub**.
+Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de **lógica de programação**, **tecnologias de programação**, **Figma**, **LinkedIn** e **GitHub**.
 
 ---
 
@@ -19,51 +19,30 @@ Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de prog
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
+
 ## 🎯 Progresso da Gabrielle Dev
 
-`Aprendendo: Python, HTML, CSS e Git`
+`Atualmente aprendendo: Git e GitHub`
 
-🧠 Fundamentos Web: ████████░░░░ 70%  
-🐍 Python Básico: ███████░░░░░ 60%  
-🔧 Git & GitHub: ████████░░░░ 65%  
-🚀 Primeiros Projetos: ████░░░░░░ 40%
+🧠 Lógica de programação: ██████████ 100% ✔️  
+🐍 Python Básico:         ██████████ 100% ✔️  
+🔧 Git & GitHub:          ██░░░░░░░░ 25% 🚧 
 
----
-
-## 👩🏽‍⚕️ Atendimentos Nutricionais Online
-
-Além da vida de dev, ofereço **planos alimentares personalizados** para pessoas saudáveis que buscam:
-
-- Emagrecimento sustentável
-- Hipertrofia e mais energia
-- Organização alimentar e autonomia
-- Protocolos leves e realistas (sem terrorismo nutricional!)
-
-✨ Planos disponíveis:
-- Avulso | Mensal | Trimestral | Semestral  
-- Valores a partir de R$250 💰
-
-📱 Atendimento 100% online | Acompanhamento via WhatsApp | Plataforma com plano em PDF e receitas 🍽️
-
-> Me chama no direct ou no WhatsApp para agendar uma conversa 💬
 
 ---
 
 ## 🧠 Curto aprender sobre:
 
-- Análise de dados e visualização
-- Automação de tarefas com Python
-- Acessibilidade digital e UX
-- Espiritualidade, comportamento e saúde
-- E como unir tudo isso num site bem feito 😎
+- Design
+- Automação de tarefas
+- Nutrição
+- Comportamento humano
 
 ---
 
@@ -71,24 +50,17 @@ Além da vida de dev, ofereço **planos alimentares personalizados** para pessoa
 
 | 🌍 Plataforma | 📎 Link |
 |--------------|---------|
-| 📸 Instagram | [@gabrielle.nutri](https://instagram.com/seuuser) |
-| 💼 LinkedIn | [linkedin.com/in/gabrielle](https://linkedin.com/in/seuperfil) |
-| ✉️ Email | [seu@email.com](mailto:seu@email.com) |
+| 📸 Instagram | [@_gabrielleszn](https://instagram.com/_gabrielleszn) |
+| 💼 LinkedIn | [linkedin.com/in/gabrielle](https://linkedin.com/in/gabrielle-zaidan-2b991a334/) |
+| ✉️ Email | [zaidangabrielle@hotmail.com](mailto:zaidangabrielle@hotmail.com) |
 | 📲 WhatsApp | Me chama por DM que eu passo! |
 
----
-
-## 🎙️ Podcast: *Eu Me Pergunto*
-
-> Um espaço de reflexões sinceras e autênticas sobre vida, escolhas, propósito e evolução.  
-> Primeiros episódios em produção 🎧
 
 ---
 
 ## ⚡ Fun fact
 
-> Comecei a programar pra automatizar dietas…  
-> Agora quero automatizar minha vida inteira — e talvez o sistema todo 😅
+> Comecei a programar pra aprender a usar blocos de código no Notion.
 
 ---
 
