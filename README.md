@@ -80,11 +80,7 @@ Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de **lÃ
 
 ---
 
-## ğŸ Snake e Visitantes
-
-<p align="center">
-  <img src="https://github.com/gabriellsx/gabriellsx/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+## Visitantes
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gabriellsx&label=Profile%20views&color=6f42c1&style=flat" alt="gabriellsx" />
