@@ -80,7 +80,7 @@ Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de **lÃ
 
 ---
 
-## Visitantes
+## ğŸ”¢ Visitantes
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gabriellsx&label=Profile%20views&color=6f42c1&style=flat" alt="gabriellsx" />
