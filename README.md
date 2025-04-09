@@ -27,7 +27,7 @@ Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de **l�
 ---
 
 
-## 🎯 Progresso da Gabrielle Dev
+## 🎯 Progresso Dev
 
 `Atualmente aprendendo: Git e GitHub`
 
@@ -35,6 +35,17 @@ Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de **l�
 🐍 Python Básico:         ██████████ 100% ✔️  
 🔧 Git & GitHub:          ██░░░░░░░░ 25% 🚧 
 
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <a href="https://github.com/gabriellsx">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellsx&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellsx&layout=compact&langs_count=7&theme=rose_pine"/>
+  </a>
+</p>
 
 ---
 
@@ -69,13 +80,20 @@ Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de **l�
 
 ---
 
+## 🐍 Snake e Visitantes
+
+<p align="center">
+  <img src="https://github.com/gabriellsx/gabriellsx/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gabriellsx&label=Profile%20views&color=6f42c1&style=flat" alt="gabriellsx" />
+</p>
+
+---
 
 <p align="center"><b>🌈 "Ser muitas em uma só é o que me faz ser inteira." </b></p>
 
-
-## 🐍 Snake comendo meus commits!
-
-![snake gif](https://github.com/gabriellsx/gabriellsx/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
