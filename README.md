@@ -61,6 +61,10 @@ Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de **l�
   <a href="mailto:zaidangabrielle@hotmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="40" title="Outlook"/>
   </a>
+  &nbsp;
+  <a href="https://pinterest.com/easygoldemma/_profile/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145808.png" width="40" title="Pinterest"/>
+  </a>
 </p>
 
 ---
@@ -72,6 +76,10 @@ Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de **l�
 ---
 
 <p align="center"><b>🌈 "Ser muitas em uma só é o que me faz ser inteira." </b></p>
+
+## 🐍 Snake comendo meus commits!
+
+![snake gif](https://github.com/gabriellsx/gabriellsx/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
