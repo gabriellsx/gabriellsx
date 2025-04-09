@@ -17,7 +17,12 @@ Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de **lÃ
 
 ## ðŸ’» Tech Stack atual
 
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.gif" width="70" title="Python"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.gif" width="70" title="HTML5"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.gif" width="70" title="CSS3"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.gif" width="70" title="Git"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.gif" width="70" title="GitHub"/> </p>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" title="GitHub"/>
+</p>
+
 
 ---
 
@@ -44,7 +49,19 @@ Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de **lÃ
 
 ## ðŸ“« Onde me encontrar
 
-<p align="center"> <a href="https://instagram.com/_gabrielleszn" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F" /> </a> <a href="https://linkedin.com/in/gabrielle-zaidan-2b991a334" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /> </a> <a href="mailto:zaidangabrielle@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=D44638" /> </a> </p>
+<p align="center">
+  <a href="https://instagram.com/_gabrielleszn" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" title="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/gabrielle-zaidan-2b991a334" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" title="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:zaidangabrielle@hotmail.com">
+    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="30" title="Email (Outlook)"/>
+  </a>
+</p>
 
 ---
 
