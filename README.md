@@ -8,8 +8,8 @@
 
 ## 🌱 Sobre mim
 
-Sou a Gabrielle, uma apaixonada por aprender e criar.  
-Estou construindo minha jornada como programadora enquanto finalizo a graduação em Nutrição. 💚
+Futura nutricionista apaixonada por saúde em todos os sentidos — física, mental e emocional.
+Quero criar sistemas que organizem a vida, simplifiquem processos e deixem espaço pro que realmente importa: viver com presença.
 
 Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de **lógica de programação**, **tecnologias de programação**, **Figma**, **LinkedIn** e **GitHub**.
 
