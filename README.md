@@ -69,13 +69,9 @@ Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de **l�
 
 ---
 
-## ⚡ Fun fact
-
-> Comecei a programar pra aprender a usar blocos de código no Notion.
-
----
 
 <p align="center"><b>🌈 "Ser muitas em uma só é o que me faz ser inteira." </b></p>
+
 
 ## 🐍 Snake comendo meus commits!
 
