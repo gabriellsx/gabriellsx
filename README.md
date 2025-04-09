@@ -17,11 +17,7 @@ Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de **l�
 
 ## 💻 Tech Stack atual
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.gif" width="70" title="Python"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.gif" width="70" title="HTML5"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.gif" width="70" title="CSS3"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.gif" width="70" title="Git"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.gif" width="70" title="GitHub"/> </p>
 
 ---
 
@@ -48,13 +44,7 @@ Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de **l�
 
 ## 📫 Onde me encontrar
 
-| 🌍 Plataforma | 📎 Link |
-|--------------|---------|
-| 📸 Instagram | [@_gabrielleszn](https://instagram.com/_gabrielleszn) |
-| 💼 LinkedIn | [linkedin.com/in/gabrielle](https://linkedin.com/in/gabrielle-zaidan-2b991a334/) |
-| ✉️ Email | [zaidangabrielle@hotmail.com](mailto:zaidangabrielle@hotmail.com) |
-| 📲 WhatsApp | Me chama por DM que eu passo! |
-
+<p align="center"> <a href="https://instagram.com/_gabrielleszn" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F" /> </a> <a href="https://linkedin.com/in/gabrielle-zaidan-2b991a334" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /> </a> <a href="mailto:zaidangabrielle@hotmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=D44638" /> </a> </p>
 
 ---
 
