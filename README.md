@@ -1,19 +1,24 @@
 <h1 align="center">✨ Oi, eu sou a Gabrielle! ✨</h1>
 <p align="center">
+
+<p align="center">
+  <a href="https://github.com/gabriellsx">
+    <img src="https://img.shields.io/github/followers/gabriellsx?label=Seguidores&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/gabriellsx">
+    <img src="https://img.shields.io/github/stars/gabriellsx?label=Stars&style=social" alt="GitHub Stars" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=gabriellsx&style=flat&color=blue" alt="Profile Views" />
+</p>
+
+<p align="center">
+
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3UyeWVkeGlkbjBxYjExY24xNGdpOXBkZGVwN2JuNGt3dzFxZDZ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sKhhNgnV6xXWg/giphy.gif" width="200"/>
 </p>
 <p align="center">💡 Nutricionista em formação | 💻 Estudante de programação </p>
 
 ---
 
-## 🌱 Sobre mim
-
-Futura nutricionista apaixonada por saúde em todos os sentidos — física, mental e emocional.
-Quero criar sistemas que organizem a vida, simplifiquem processos e deixem espaço pro que realmente importa: viver com presença.
-
-Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de **lógica de programação**, **tecnologias de programação**, **Figma**, **LinkedIn** e **GitHub**.
-
----
 
 ## 💻 Tech Stack atual
 
@@ -51,9 +56,9 @@ Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de **l�
 
 ## 🧠 Curto aprender sobre:
 
-- Design
-- Automação de tarefas
 - Nutrição
+- Automação de tarefas
+- Criação de sistemas
 - Comportamento humano
 
 ---
@@ -80,16 +85,7 @@ Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de **l�
 
 ---
 
-## 🔢 Visitantes
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabriellsx&label=Profile%20views&color=6f42c1&style=flat" alt="gabriellsx" />
-</p>
-
----
-
 <p align="center"><b>🌈 "Ser muitas em uma só é o que me faz ser inteira." </b></p>
-
 
 
 <!---
