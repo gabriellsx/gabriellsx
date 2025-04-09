@@ -51,15 +51,15 @@ Atualmente estudo pela **Incode Tech School**, aprendendo os fundamentos de **l√
 
 <p align="center">
   <a href="https://instagram.com/_gabrielleszn" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" title="Instagram"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" title="Instagram"/>
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/gabrielle-zaidan-2b991a334" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" title="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" title="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:zaidangabrielle@hotmail.com">
-    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="30" title="Email (Outlook)"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="40" title="Outlook"/>
   </a>
 </p>
 
