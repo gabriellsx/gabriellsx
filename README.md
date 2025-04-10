@@ -21,7 +21,7 @@
 ## 🚀 Áreas de Interesse & Aprendizado
 
 - Nutrição e saúde integral
-- Programação e automação de tarefas
+- Desenvolvimento de softwares e automação de tarefas
 - Design e criação de sistemas
 - Comportamento humano e produtividade
 
