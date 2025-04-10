@@ -85,7 +85,7 @@
 
 ---
 
-<p align="center"><b>🌈 "Ser muitas em uma só é o que me faz ser inteira." </b></p>
+<p align="center"><b>🌈 "The work is mysterious and important." </b></p>
 
 
 <!---
