@@ -47,10 +47,16 @@
 
 ## 📊 Estatísticas GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellsx&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellsx&layout=compact&langs_count=7&theme=rose_pine"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellsx&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellsx&layout=compact&langs_count=7&theme=transparent"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
