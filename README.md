@@ -20,9 +20,9 @@
 
 ## 🚀 Áreas de Interesse & Aprendizado
 
-- Nutrição e saúde integral
-- Desenvolvimento web
-- Design e criação de sistemas
+- Nutrição comportamental
+- Desenvolvimento front-end
+- Design gráfico
 - Comportamento humano e produtividade
 
 ---
@@ -33,6 +33,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" title="Figma"/>
 </p>
 
 ---
@@ -41,7 +43,9 @@
 
 🧠 Lógica de programação: ██████████ 100%  
 🐍 Python Básico:         ██████████ 100%  
-🔧 Git & GitHub:          ██░░░░░░░░ 25%  
+🔧 Git & GitHub:          ██████████ 100%  
+🎨 Figma Básico:          ██████████ 100%  
+🌐 HTML:                  ██████░░░░ 50%
 
 ---
 
@@ -71,13 +75,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" title="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:zaidangabrielle@hotmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="40" title="Outlook"/>
-  </a>
-  &nbsp;
-  <a href="https://pinterest.com/easygoldemma/_profile/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145808.png" width="40" title="Pinterest"/>
-  </a>
 </p>
 
 ---
